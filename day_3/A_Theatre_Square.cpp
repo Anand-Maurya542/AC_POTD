@@ -1,3 +1,4 @@
+//codeforces
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
@@ -9,7 +10,6 @@ int main(){
     else{
         ans=ceil((double)n/a)*ceil((double)m/a);
         cout<<ans;
-
     }
 
     
